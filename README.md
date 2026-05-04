@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ByteSlot — Modular Scheduling System
 
 A production-ready scheduling & booking platform built with Django + React.
@@ -132,3 +133,6 @@ celery -A config beat -l info
 - **Google Meet**: Auto-generated Meet links for video bookings
 - **Email Notifications**: Confirmation, cancellation, 1-hour reminders
 - **Dashboard**: Weekly hours summary, upcoming meetings, booking stats
+=======
+# ByteSlot
+>>>>>>> c6fda5687f776230c95b95412d636ad7154cc248
